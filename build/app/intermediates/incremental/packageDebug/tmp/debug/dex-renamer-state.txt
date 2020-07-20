@@ -1,0 +1,4 @@
+#Mon Jul 20 14:45:57 CEST 2020
+base.0=C\:\\Users\\malek.slimani\\Downloads\\flutter_networking-3\\flutter_networking\\final\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
